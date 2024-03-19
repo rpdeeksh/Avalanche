@@ -4,7 +4,7 @@ This Solidity program showcases different error handling techniques in smart con
 
 ## Description
 
-This program is a Solidity smart contract that demonstrates error handling techniques using `require`, `revert`, and `assert` statements. It provides functions to check if a given input is greater than zero. Depending on the function called, it will either return a message, revert the transaction, or assert a condition.
+This program is a Solidity smart contract that demonstrates error handling techniques using `require`, `revert`, and `assert` statements. It provides functions to check if a given input is greater than zero. Depending on the function called, it will either return a message, revert the transaction, or assert a condition or add an item to the stalk of an inventory.
 
 ## Getting Started
 
